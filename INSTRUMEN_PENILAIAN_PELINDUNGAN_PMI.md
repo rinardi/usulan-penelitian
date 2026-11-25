@@ -1,5 +1,7 @@
 # INSTRUMEN PENILAIAN PENGHARGAAN PELINDUNGAN PMI
 
+> **Catatan:** untuk penilaian sepihak berbasis bukti publik, gunakan `INSTRUMEN_PENILAIAN_SEPIHAK_V2.md` (menggantikan dokumen ini).
+
 **Dua instrumen dalam satu dokumen:**
 - **Instrumen A** – Pemerintah Daerah (Provinsi, Kabupaten/Kota, Desa) terbaik dalam mendukung pelindungan PMI
 - **Instrumen B** – Influencer/Tokoh dan Institusi terbaik dalam mendukung pelindungan PMI
