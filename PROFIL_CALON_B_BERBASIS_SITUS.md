@@ -15,7 +15,6 @@ Tanggal pembacaan situs: **25 November 2026**.
 | Calon | Kategori | Bukti PMI di situs | Bukti dampak terukur | Legalitas terlihat | Status data |
 |---|:--:|:--:|:--:|:--:|---|
 | Miss Yuni | B1 | Belum terbaca | Belum terbaca | – | **Tidak terbaca** |
-| Uya Kuya | B1 | Tidak ada tautan diberikan | – | – | **Belum ada sumber** |
 | BAZNAS | B3 | **Tidak ditemukan** | Tidak ada untuk PMI | Belum terbaca | Terbaca sebagian |
 | Palang Merah Indonesia | B3 | Belum terbaca | Belum terbaca | – | **Tidak terbaca** |
 | IDN Global | B3 | Ada (terbatas) | Tidak ada angka kasus/penerima | Tidak tercantum | Terbaca |
@@ -87,8 +86,6 @@ Situs: baznas.go.id (dibaca: beranda, profil, program kemanusiaan).
 - Status kelembagaan, program PMI, dan angka dampak **belum bisa dinilai**
 - Perlu halaman spesifik atau dokumen dari PMI (misalnya laporan tahunan, program penghubungan keluarga)
 
-### 2.6 Uya Kuya
-- Belum ada tautan sumber. **Isu status anggota DPR tetap perlu diputuskan lebih dulu** (lihat `DAFTAR_CALON_PENILAIAN.md`, bagian B.2)
 
 ---
 
@@ -97,7 +94,6 @@ Situs: baznas.go.id (dibaca: beranda, profil, program kemanusiaan).
 | Calon | Dokumen yang diminta |
 |---|---|
 | Miss Yuni | Statistik kanal 12 bulan (YouTube Studio), daftar konten PMI, bukti kasus dirujuk, sumber pendanaan/sponsor |
-| Uya Kuya | Profil kegiatan PMI, bukti dampak, pernyataan status jabatan |
 | BAZNAS | Daftar program khusus PMI/keluarga PMI, penerima, penyaluran 3 tahun |
 | Palang Merah Indonesia | Program penghubungan keluarga, bantuan korban, data penerima PMI |
 | IDN Global | Akta dan legalitas, jumlah peserta pelatihan, jumlah penerima GOTA, hasil EBS, laporan keuangan |
@@ -117,6 +113,6 @@ Situs: baznas.go.id (dibaca: beranda, profil, program kemanusiaan).
 
 ## KESIMPULAN
 
-- **Enam calon dibaca dari situs**, tetapi hanya **dua yang terbaca memadai** (IDN Global dan IOJI); **dua tidak terbaca** (Palang Merah Indonesia dan YouTube Miss Yuni); **BAZNAS** terbaca sebagian tanpa program PMI; **Uya Kuya** belum ada sumber.
+- **Lima calon dibaca dari situs**, tetapi hanya **dua yang terbaca memadai** (IDN Global dan IOJI); **dua tidak terbaca** (Palang Merah Indonesia dan YouTube Miss Yuni); **BAZNAS** terbaca sebagian tanpa program PMI.
 - **Tidak ada skor** yang layak diisi dari bahan ini. Skor wajib menunggu data resmi dari calon dan verifikasi lapangan.
-- **Langkah berikutnya:** kirim surat permintaan data (daftar di bagian 3), buka situs yang tidak terbaca lewat peramban, dan putuskan isu status Uya Kuya.
+- **Langkah berikutnya:** kirim surat permintaan data (daftar di bagian 3), buka situs yang tidak terbaca lewat peramban.

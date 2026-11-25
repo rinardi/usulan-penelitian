@@ -89,19 +89,13 @@ Acuan: `INSTRUMEN_PENILAIAN_PELINDUNGAN_PMI.md` (Instrumen A untuk Pemda, Instru
 | No | Calon | Jenis | Kategori usulan | Hal yang perlu diperjelas |
 |:--:|---|---|:--:|---|
 | 1 | Miss Yuni (pegiat TKW Hong Kong) | Perorangan | **B1** | Bentuk kegiatan, jangkauan nyata ke calon PMI, sumber pendanaan |
-| 2 | Uya Kuya | Perorangan, tokoh publik | **B1** | Lihat catatan khusus di bawah |
-| 3 | BAZNAS | Lembaga zakat nasional | **B3** | Status kelembagaan (lihat catatan), program khusus PMI |
-| 4 | Palang Merah Indonesia (PMI) | Organisasi kemanusiaan | **B3** | Singkatan sama dengan Pekerja Migran Indonesia, tulis lengkap; program khusus PMI |
-| 5 | IDN Global | Institusi | **B3** (dugaan) | **Saya tidak punya informasi pasti tentang lembaga ini.** Panitia perlu menyampaikan profil, legalitas, dan bidang kerjanya |
-| 6 | IOJI | Lembaga kajian | **B3** | Fokus kelautan; perlu bukti kerja khusus pelindungan awak kapal perikanan migran |
+| 2 | BAZNAS | Lembaga zakat nasional | **B3** | Status kelembagaan (lihat catatan), program khusus PMI |
+| 3 | Palang Merah Indonesia (PMI) | Organisasi kemanusiaan | **B3** | Singkatan sama dengan Pekerja Migran Indonesia, tulis lengkap; program khusus PMI |
+| 4 | IDN Global | Institusi | **B3**  | Indonesian Diaspora Network Global; legalitas belum tercantum di situs, perlu diminta |
+| 5 | IOJI | Lembaga kajian | **B3** | Fokus kelautan; perlu bukti kerja khusus pelindungan awak kapal perikanan migran |
 
 ### B.2 Catatan Khusus (Perlu Diputuskan Sebelum Penilaian)
 
-- **Uya Kuya (anggota DPR):**
-  - Instrumen B ditujukan untuk pihak **nonpemerintah**. Pejabat publik/anggota legislatif berpotensi **tidak memenuhi syarat kategori** atau perlu aturan khusus.
-  - Ada **risiko konflik kepentingan dan citra politik** bila Kementerian memberi penghargaan kepada anggota DPR yang bermitra dengan komisi pengawas Kementerian.
-  - **Status jabatan terkini saya tidak bisa pastikan**; panitia perlu memeriksanya langsung.
-  - **Usulan:** putuskan dulu kebijakan: (a) pejabat publik tidak boleh dinilai, atau (b) dinilai dengan kategori terpisah dan syarat tambahan. Tetap wajib lulus **gerbang integritas** dan **cek rekam jejak** seperti calon lain.
 - **BAZNAS:** bergerak di zakat dan dibentuk pemerintah. Tentukan apakah masuk "nonpemerintah". Bila ya, nilai dari **program nyata untuk PMI/keluarga PMI**, bukan nama besar.
 - **Palang Merah Indonesia:** bidang utamanya kemanusiaan dan kebencanaan. Nilai dari **program yang menyentuh PMI** (misalnya penghubungan keluarga, bantuan korban). Tanpa bukti itu, skor dampak akan rendah.
 - **Seluruh calon:** pilihan ini **belum mencakup media (B2) maupun dunia usaha (B4)**. Putuskan apakah kategori tersebut dipakai.
@@ -112,7 +106,6 @@ Acuan: `INSTRUMEN_PENILAIAN_PELINDUNGAN_PMI.md` (Instrumen A untuk Pemda, Instru
 | Calon | Tidak promosi jalur nonprosedural | Tidak sebar informasi menyesatkan | Tidak salahgunakan data PMI | Tidak ada perkara hukum terkait | Cek rekam jejak 12 bulan | Lolos? |
 |---|:--:|:--:|:--:|:--:|:--:|:--:|
 | Miss Yuni | | | | | | |
-| Uya Kuya | | | | | | |
 | BAZNAS | | | | | | |
 | Palang Merah Indonesia | | | | | | |
 | IDN Global | | | | | | |
@@ -144,7 +137,6 @@ Acuan: `INSTRUMEN_PENILAIAN_PELINDUNGAN_PMI.md` (Instrumen A untuk Pemda, Instru
 | Calon | Kategori | Nilai akhir | Predikat | Ranking dalam kategori |
 |---|:--:|:--:|:--:|:--:|
 | Miss Yuni | B1 | | | |
-| Uya Kuya | B1 | | | |
 | BAZNAS | B3 | | | |
 | Palang Merah Indonesia | B3 | | | |
 | IDN Global | B3 | | | |
@@ -154,8 +146,8 @@ Acuan: `INSTRUMEN_PENILAIAN_PELINDUNGAN_PMI.md` (Instrumen A untuk Pemda, Instru
 
 ## C. LANGKAH BERIKUTNYA
 
-1. **Putuskan isu kebijakan**: status calon pejabat publik, kategori 3 Pemda, kategori calon lembaga semipemerintah
-2. **Kirim surat permintaan data** ke 12 Pemda dan 6 calon (daftar bukti di A.4 dan B.4), beri tenggat
+1. **Putuskan isu kebijakan**: kategori 3 Pemda, kategori calon lembaga semipemerintah
+2. **Kirim surat permintaan data** ke 12 Pemda dan 5 calon (daftar bukti di A.4 dan B.4), beri tenggat
 3. **Susun tim penilai dan dewan juri**, terapkan aturan konflik kepentingan (juri tidak menilai asalnya)
 4. **Isi gerbang seleksi B.3** lebih dulu sebelum menilai calon influencer/institusi
 5. **Lakukan verifikasi lapangan** pada calon dengan nilai tertinggi
@@ -164,6 +156,6 @@ Acuan: `INSTRUMEN_PENILAIAN_PELINDUNGAN_PMI.md` (Instrumen A untuk Pemda, Instru
 
 ## KESIMPULAN
 
-- Ada **12 calon Pemda** (6 provinsi, 6 kabupaten) dan **6 calon influencer/institusi**; seluruhnya belum dinilai karena **data bukti belum ada**.
-- **Tiga hal perlu diputuskan sebelum penilaian**: status Uya Kuya sebagai anggota DPR, Kategori 3 Pemda yang kosong, dan status BAZNAS/PMI sebagai lembaga nonpemerintah.
-- **IDN Global tidak saya kenali**, sehingga profilnya harus dilengkapi panitia.
+- Ada **12 calon Pemda** (6 provinsi, 6 kabupaten) dan **5 calon influencer/institusi**; seluruhnya belum dinilai karena **data bukti belum ada**.
+- **Dua hal perlu diputuskan sebelum penilaian**: Kategori 3 Pemda yang kosong, dan status BAZNAS/PMI sebagai lembaga nonpemerintah.
+- **IDN Global sudah teridentifikasi** sebagai Indonesian Diaspora Network Global; profilnya ada di `PROFIL_CALON_B_BERBASIS_SITUS.md`.
